@@ -1,0 +1,5 @@
+C:\GITHUB\TestApplication\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\GITHUB\TestApplication\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\GITHUB\TestApplication\TestApp\TestApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\GITHUB\TestApplication\TestApp\TestApp\obj\x86\Debug\TestApp.exe
+C:\GITHUB\TestApplication\TestApp\TestApp\obj\x86\Debug\TestApp.pdb
