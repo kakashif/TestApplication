@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<CCIObjects category="CciApps" exporttime="2013-07-25T12:27:56" parameterset="NGExportSpooler" structure="Budget" systemid="ngx_ngclio" variant="SaxotechArticle" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <object id="B938090065Z.1" kind="Budget">
+    <attributes>
+      <attribute group="NGBudgetPackage" kind="string" name="Id">B938090065Z.1</attribute>
+      <attribute group="NGBudgetPackage" kind="string" name="RevOperator">mtully</attribute>
+      <attribute group="NGBudgetPackage" kind="string" name="Product">INIWebArticle</attribute>
+      <attribute group="NGBudgetPackage" kind="string" name="PublicationDate">2013 07 25</attribute>
+      <attribute group="NGBudgetPackage" kind="string" name="Path1">Indianapolis News [NEWS]</attribute>
+      <attribute group="NGBudgetPackage" kind="string" name="Path2">Matthew Tully [NEWS08]</attribute>
+      <attribute group="NGBudgetPackage" kind="string" name="Path3"></attribute>
+      <attribute group="NGBudgetPackage" kind="string" name="Path4"></attribute>
+      <attribute group="NGBudgetPackage" kind="string" name="Path5"></attribute>
+      <attribute group="NGBudgetPackage" kind="integer" name="ProductRanking">5</attribute>
+      <attribute group="NGBudgetPackage" kind="boolean" name="AutoExport">true</attribute>
+      <attribute group="NGBudgetPackage" kind="string" name="PackageType">SaxotechArticle</attribute>
+      <attribute group="NGBudgetPackage" kind="string" name="Path6">Matthew Tully</attribute>
+      <attribute group="NGBudgetPackage" kind="string" name="CreateOperator">mtully</attribute>
+      <attribute group="NGBudgetPackage" kind="string" name="NewsRoomOwner">Indiana</attribute>
+      <attribute group="NGBudgetPackage" kind="string" name="Name">INI MTULLY 07 26</attribute>
+      <attribute group="ExtraInfo" kind="string" name="State">Created</attribute>
+      <attribute group="ExtraInfo" kind="string" name="DestinationExternalId">NEWS08</attribute>
+      <attribute group="ExtraInfo" kind="string" name="LeafExternalId">1101 [200047,100340]</attribute>
+    </attributes>
+    <parents>
+      <object id="B663615198Z.1" kind="Story">
+        <attributes>
+          <attribute group="NGStory" kind="string" name="Name">INI MTULLY 07 26</attribute>
+          <attribute group="ExtraInfo" kind="string" name="State">Edited</attribute>
+        </attributes>
+        <parents>
+          <object id="B6311117Z.1" kind="Desk">
+            <attributes>
+              <attribute group="NGDesk" kind="string" name="Name">News - Tully Column</attribute>
+              <attribute group="ExtraInfo" kind="string" name="State">Edited</attribute>
+            </attributes>
+          </object>
+        </parents>
+      </object>
+    </parents>
+    <children>
+      <object id="GI84NMOCH.2" kind="OnlineArticle">
+        <attributes>
+          <attribute group="Graph" kind="string" name="Name">onlinearticle.xml</attribute>
+        </attributes>
+        <content>
+          <data format="text/xml">
+            <CCIObjects>
+              <object id="GI84NMOCH.2" kind="OnlineArticle">
+                <attributes>
+                  <attribute group="xml" name="ArticleOverrideID"/>
+                  <attribute group="xml" name="BreakingNews"/>
+                  <attribute group="xml" name="CommentPreModeration">false</attribute>
+                  <attribute group="xml" name="DesignLayout">1</attribute>
+                  <attribute group="xml" name="ExternalStandoutTag"/>
+                  <attribute group="xml" name="External_URL"/>
+                  <attribute group="xml" name="FileUnderTags"/>
+                  <attribute group="xml" name="GEOTag"/>
+                  <attribute group="xml" name="GalleryId"/>
+                  <attribute group="xml" name="Mogulus">false</attribute>
+                  <attribute group="xml" name="Newsletter_Summary"/>
+                  <attribute group="xml" name="Newsletter_Title"/>
+                  <attribute group="xml" name="Pagination">true</attribute>
+                  <attribute group="xml" name="PluckComment">true</attribute>
+                  <attribute group="xml" name="PluckRecommend">true</attribute>
+                  <attribute group="xml" name="PluckReview">false</attribute>
+                  <attribute group="xml" name="Profile1">200047,100340</attribute>
+                  <attribute group="xml" name="Profile2"/>
+                  <attribute group="xml" name="Profile3"/>
+                  <attribute group="xml" name="Profile4"/>
+                  <attribute group="xml" name="Profile5"/>
+                  <attribute group="xml" name="Profile6"/>
+                  <attribute group="xml" name="Profile7"/>
+                  <attribute group="xml" name="Profile8"/>
+                  <attribute group="xml" name="Profile9"/>
+                  <attribute group="xml" name="ProtectedType">2</attribute>
+                  <attribute group="xml" name="SEOName"/>
+                  <attribute group="xml" name="SEOName_label"/>
+                  <attribute group="xml" name="StandoutTag">false</attribute>
+                  <attribute group="xml" name="TMAlertNow">false</attribute>
+                  <attribute group="xml" name="TMData"/>
+                  <attribute group="xml" name="TMSendID">true</attribute>
+                  <attribute group="xml" name="TMSentDate"/>
+                  <attribute group="xml" name="Taxonomy1"/>
+                  <attribute group="xml" name="Taxonomy2"/>
+                  <attribute group="xml" name="Taxonomy3"/>
+                  <attribute group="xml" name="Taxonomy4"/>
+                  <attribute group="xml" name="Taxonomy5"/>
+                  <attribute group="xml" name="Taxonomy6"/>
+                  <attribute group="xml" name="Taxonomy7"/>
+                  <attribute group="xml" name="Taxonomy8"/>
+                  <attribute group="xml" name="Taxonomy9"/>
+                  <attribute group="xml" name="VideoID"/>
+                  <attribute group="xml" name="VideoPlacement"/>
+                  <attribute group="xml" name="artsubclass"/>
+                  <attribute group="xml" name="channelcontrol_label"/>
+                  <attribute group="xml" name="channelcontrol_label_end"/>
+                  <attribute group="xml" name="chpda">true</attribute>
+                  <attribute group="xml" name="chwap">true</attribute>
+                  <attribute group="xml" name="chweb">true</attribute>
+                  <attribute group="xml" name="fpsubclass"/>
+                  <attribute group="xml" name="fpsubclass_label"/>
+                  <attribute group="xml" name="keywords"/>
+                  <attribute group="xml" name="keywords_pick">newstopnews</attribute>
+                  <attribute group="xml" name="modified"/>
+                  <attribute group="xml" name="modifiedby"/>
+                  <attribute group="xml" name="newsgate_budget_id"/>
+                  <attribute group="xml" name="newsgate_story_id"/>
+                  <attribute group="xml" name="newsgate_text_id"/>
+                  <attribute group="xml" name="pluck_label"/>
+                  <attribute group="xml" name="pluck_label_end"/>
+                  <attribute group="xml" name="publishcontrol">false</attribute>
+                  <attribute group="xml" name="publishcontrol_label"/>
+                  <attribute group="xml" name="publishcontrol_label_end"/>
+                  <attribute group="xml" name="publishfrom">20130725 12:00:00</attribute>
+                  <attribute group="xml" name="publishto"/>
+                  <attribute group="xml" name="saxotech_id"/>
+                  <attribute group="xml" name="secsubclass"/>
+                  <attribute group="xml" name="sectionsummary"/>
+                  <attribute group="xml" name="standout_label"/>
+                  <attribute group="xml" name="standout_label_end"/>
+                  <attribute group="xml" name="standout_label_end2"/>
+                  <attribute group="xml" name="status">9</attribute>
+                  <attribute group="xml" name="subarticle">0</attribute>
+                  <attribute group="xml" name="subclass_label"/>
+                  <attribute group="xml" name="taxonomy"/>
+                  <attribute group="xml" name="teaserheading"/>
+                  <attribute group="xml" name="textmessage_label"/>
+                  <attribute group="xml" name="textmessage_label2"/>
+                  <attribute group="xml" name="theme"/>
+                </attributes>
+                <content/>
+              </object>
+            </CCIObjects>
+          </data>
+        </content>
+      </object>
+      <object id="GDH4NMOIF.28" kind="Text">
+        <attributes>
+          <attribute group="Graph" kind="string" name="Id">GDH4NMOIF.28</attribute>
+          <attribute group="Graph" kind="dateTime" name="LastRev">2013-07-25T12:27:53-04:00</attribute>
+          <attribute group="Graph" kind="string" name="RevOperator">bmurphy</attribute>
+          <attribute group="Graph" kind="string" name="Uid">DH4NMOIF</attribute>
+          <attribute group="Graph" kind="string" name="IIM_Destination"></attribute>
+          <attribute group="Graph" kind="string" name="IIM_ServiceId"></attribute>
+          <attribute group="Graph" kind="dateTime" name="IIM_DateSent">1969-12-31T19:00:00-05:00</attribute>
+          <attribute group="Graph" kind="string" name="IIM_Category"></attribute>
+          <attribute group="Graph" kind="string" name="IIM_SuppCategory"></attribute>
+          <attribute group="Graph" kind="string" name="IIM_FixtureId"></attribute>
+          <attribute group="Graph" kind="string" name="IIM_Keywords"></attribute>
+          <attribute group="Graph" kind="dateTime" name="IIM_ReleaseDate">1969-12-31T19:00:00-05:00</attribute>
+          <attribute group="Graph" kind="dateTime" name="IIM_ExpirationDate">1969-12-31T19:00:00-05:00</attribute>
+          <attribute group="Graph" kind="dateTime" name="IIM_CreationDate">1969-12-31T19:00:00-05:00</attribute>
+          <attribute group="Graph" kind="dateTime" name="IIM_DigitalCreatDate">1969-12-31T19:00:00-05:00</attribute>
+          <attribute group="Graph" kind="string" name="IIM_Byline">Tully, Matthew</attribute>
+          <attribute group="Graph" kind="string" name="IIM_BylineTitle"></attribute>
+          <attribute group="Graph" kind="string" name="IIM_City"></attribute>
+          <attribute group="Graph" kind="string" name="IIM_SubLocation"></attribute>
+          <attribute group="Graph" kind="string" name="IIM_ProvinceState"></attribute>
+          <attribute group="Graph" kind="string" name="IIM_CountryCode"></attribute>
+          <attribute group="Graph" kind="string" name="IIM_CountryName"></attribute>
+          <attribute group="Graph" kind="string" name="IIM_OrigTransRef"></attribute>
+          <attribute group="Graph" kind="string" name="IIM_HeadLine">Matthew Tully: When it comes to saving kids, this program is working</attribute>
+          <attribute group="Graph" kind="string" name="IIM_Credit">Indiana</attribute>
+          <attribute group="Graph" kind="string" name="IIM_Source">Indiana</attribute>
+          <attribute group="Graph" kind="string" name="IIM_CopyrightNotice"></attribute>
+          <attribute group="Graph" kind="boolean" name="TextMiningDone">false</attribute>
+          <attribute group="Graph" kind="string" name="TextMiningResult"></attribute>
+          <attribute group="Graph" kind="string" name="IIM_SourceCategory">Staff</attribute>
+          <attribute group="Graph" kind="integer" name="ContextualUse">0</attribute>
+          <attribute group="Graph" kind="integer" name="NewsValue">3</attribute>
+          <attribute group="Graph" kind="string" name="Reporter">mtully</attribute>
+          <attribute group="Graph" kind="string" name="Name">INI MTULLY 07 26</attribute>
+          <attribute group="Graph" kind="string" name="NewsRoom">Indiana</attribute>
+          <attribute group="Graph" kind="boolean" name="UsageExport">false</attribute>
+          <attribute group="Graph" kind="string" name="UsageExportData"></attribute>
+          <attribute group="Graph" kind="string" name="Latitude">0</attribute>
+          <attribute group="Graph" kind="string" name="Longitude"></attribute>
+          <attribute group="Graph" kind="string" name="OriginalNewsroom">Indiana</attribute>
+          <attribute group="Graph" kind="string" name="Language"></attribute>
+          <attribute group="Graph" kind="string" name="CreateOperator">mtully</attribute>
+          <attribute group="Graph" kind="integer" name="ContentState">800</attribute>
+          <attribute group="ExtraInfo" kind="string" name="State">Created</attribute>
+        </attributes>
+        <content>
+          <data format="text/xml">
+            <cci:ccitext xmlns:cci="urn:schemas-ccieurope.com" xmlns:ccit="http://www.ccieurope.com/xmlns/ccimltables" xmlns:ccix="http://www.ccieurope.com/xmlns/ccimlextensions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:schemas-ccieurope.com cci.xsd">
+              <cci:z_message class="element" displayname="z_message" name="z_message"/>
+              <cci:mm_summary class="element" displayname="mm_summary" name="mm_summary">
+                <cci:p>A look at an educational program that is changing lives.</cci:p>
+              </cci:mm_summary>
+              <cci:head_kicker class="element" displayname="head_kicker" name="head_kicker"/>
+              <cci:mm_summary__chatter class="element" displayname="head" name="head">
+                <cci:p>This is my chatter</cci:p>
+              </cci:mm_summary__chatter>
+              <cci:head class="element" displayname="head" name="head">
+                <cci:p>Matthew Tully: When it comes to saving kids, this program is working</cci:p>
+              </cci:head>
+              <cci:head_deck class="element" displayname="head_deck" name="head_deck"/>
+              <cci:byline class="element" displayname="byline" name="byline">
+                <cci:p>Matthew Tully</cci:p>
+              </cci:byline>
+              <cci:body class="element" displayname="body" name="body">
+                <cci:p>This is the heart of the summer vacation season, but on Wednesday morning at St. Richard's Episcopal School several classrooms were filled with students and learning. The scene was a reminder of the wonderful things going on in education in Indianapolis, and of the hard work it’s going to take to address the monumental challenges facing the city’s most at-risk students.</cci:p>
+                <ccix:command value="252"/>
+                <cci:p>In one classroom on the school’s first floor, a volunteer counselor talked quietly and compassionately with a student struggling with behavioral issues. Nearby, in a hallway, reading specialist Sharon Post laughed with a first-grader named Daysia, who swayed back and forth and read from a sheet filled with words she couldn’t read just a few weeks ago. And in another classroom, a sophomore at Arsenal Tech High School sat at a wooden desk tutoring a second-grade student.</cci:p>
+                <ccix:command value="252"/>
+                <cci:p>“I like to help people,” the high schooler, Sean Davis, said. “And sometimes it’s easier for kids to follow what someone is doing when they’re not much older than them. They know I was their age not too long ago.”</cci:p>
+                <ccix:command value="252"/>
+                <cci:p>Collectively, the work being done in the school is an inspiring example of programs that work and that can have a deep impact on the lives of children and the city itself. </cci:p>
+                <ccix:command value="252"/>
+                <cci:p>Called Horizon's at St. Richard's Episcopal School, the intensive five-week summer program aims to address the devastating summer learning loss that hits children of poverty hard and worsens an achievement gap that already puts them at higher odds of dropping out. Serving 80 low-income children this summer in the hard-hit area around the school, at 33rd and Meridian streets, the program’s data show that kids who have participated in recent summers have gained on average nearly three months of growth in reading and, for most grades, the same gains in math.</cci:p>
+                <ccix:command value="252"/>
+                <cci:p>That, by the way, is opposed to what many of their peers will see: not stagnation over the summer but a decline in reading and math skills. </cci:p>
+                <ccix:command value="252"/>
+                <cci:p>The success comes thanks to hard work on the behalf of the program’s teachers, assistants and volunteers — and because parents agree to send their children to school every day, five days a week during the program.</cci:p>
+                <ccix:command value="252"/>
+                <cci:p>That requirement is not always an easy concept to sell, executive director Mariann Bernlohr said. “But our teachers say all the time that missing one day is like missing a week during the school year. They go so hard. They put their hearts and souls into this. For their students to see the growth that they are capable of achieving, they need to be here every day.”</cci:p>
+                <ccix:command value="252"/>
+                <cci:p>The program gives the teachers data on the students’ academic levels but flexibility to develop their own curriculum. That’s an attractive selling point for the licensed teachers, whose classes have no more than 15 students and who come to Horizons from local private and public school districts. And even though the students work hard at math, reading and other subjects, the mood in the school is relaxed and fun. That’s helped by the afternoon sessions that center on swimming at Butler University and other activities such as yoga and dancing.</cci:p>
+                <ccix:command value="252"/>
+                <cci:p>In one class on Wednesday, a 7-year-old named Jovyon was one of many using clay to describe his favorite part of the program. He shaped his clay into a long, squiggly line.</cci:p>
+                <ccix:command value="252"/>
+                <cci:p>“It’s a wave,” he said. “Because I love going to swim at Butler.”</cci:p>
+                <ccix:command value="252"/>
+                <cci:p>The program is part of the national Horizons network and has built a close relationship with St. Richard’s, which provides the building, equipment, room for staff and human resources support. Families are charged only a $25 registration fee — “It’s important to have some skin in the game, but we never want money to keep a student away,” Bernlohr said — and the program has created partnerships with nearby public schools that serve the students during the school year.</cci:p>
+                <ccix:command value="252"/>
+                <cci:p>In class after class Wednesday, students were engaged and interacting with their teachers at a time when many would otherwise be falling academically behind.</cci:p>
+                <ccix:command value="252"/>
+                <cci:p>“These children are the most vulnerable, the most at risk of falling into the achievement gap,” said Bernlohr, using as an example two fifth-graders who arrived this year with reading skills equivalent to a kindergartener. </cci:p>
+                <ccix:command value="252"/>
+                <cci:p>The program now serves students from kindergarten to fifth grade but will likely expand another three grades in the coming years. The ultimate goal is to create a relationship with students and families that lasts for nine years and that profoundly benefits the students academically and socially. That’s an ambitious goal but such a worthy one, and it’s one that many people have embraced.</cci:p>
+                <ccix:command value="252"/>
+                <cci:p>One such person is Jeff Johnson, a teacher at Park Tudor who learned about the program and became a volunteer. This summer, he is serving as the school’s full-time counselor, helping students work through a wide range of personal and behavioral issues that can stand in the way of success at school. It’s a demanding job, one that won’t earn the veteran teacher a penny this summer.</cci:p>
+                <ccix:command value="252"/>
+                <cci:p>He doesn’t mind.</cci:p>
+                <ccix:command value="252"/>
+                <cci:p>“Just looking at these kids and seeing their energy and learning their stories, it’s such a worthwhile program,” he said. Then, pointing to the program’s executive director, he added: “Don’t tell Mariann, but it’s such a great program that I’d probably pay for the opportunity to be a part of it.”</cci:p>
+                <ccix:command value="252"/>
+                <cci:endnote_contact class="paragraph" displayname="endnote_contact" name="endnote_contact">
+                  <cci:p>You can reach me at matthew.tully@indystar.com or on Twitter @matthewltully.</cci:p>
+                  <ccix:command value="252"/>
+                </cci:endnote_contact>
+              </cci:body>
+              <cci:infobox class="element" displayname="infobox" name="infobox"/>
+              <cci:refer class="element" displayname="refer" name="refer"/>
+            </cci:ccitext>
+          </data>
+        </content>
+        <parents>
+          <object id="B6910867826Z.1" kind="Assignment">
+            <attributes>
+              <attribute group="NGItemCollection" kind="dateTime" name="DeliveryTime">1969-12-31T19:00:00-05:00</attribute>
+              <attribute group="NGItemCollection" kind="integer" name="TaskType">1</attribute>
+              <attribute group="NGItemCollection" kind="string" name="Name">INI MTULLY 07 26</attribute>
+              <attribute group="ExtraInfo" kind="string" name="State">Edited</attribute>
+            </attributes>
+            <children>
+              <object id="B3032638Z.1" kind="User"/>
+            </children>
+          </object>
+        </parents>
+      </object>
+    </children>
+  </object>
+</CCIObjects>
