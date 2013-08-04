@@ -187,9 +187,8 @@
           <data format="text/xml">
             <cci:ccitext xmlns:cci="urn:schemas-ccieurope.com" xmlns:ccit="http://www.ccieurope.com/xmlns/ccimltables" xmlns:ccix="http://www.ccieurope.com/xmlns/ccimlextensions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:schemas-ccieurope.com cci.xsd">
               <cci:z_message class="element" displayname="z_message" name="z_message"/>
-              <cci:mm_summary class="element" displayname="mm_summary" name="mm_summary">
-                <cci:p>A look at an educational program that is changing lives.</cci:p>
-              </cci:mm_summary>
+              <cci:mm_summary class="element" displayname="mm_summary" name="mm_summary" />
+                
               <cci:head_kicker class="element" displayname="head_kicker" name="head_kicker"/>
               <cci:mm_summary__chatter class="element" displayname="head" name="head">
                 <cci:p>This is my chatter</cci:p>
@@ -199,7 +198,7 @@
               </cci:head>
               <cci:head_deck class="element" displayname="head_deck" name="head_deck"/>
               <cci:byline class="element" displayname="byline" name="byline">
-                <cci:p>Matthew Tully</cci:p>
+                <cci:p>Matthew Tully, My source</cci:p>
               </cci:byline>
               <cci:body class="element" displayname="body" name="body">
                 <cci:p>This is the heart of the summer vacation season, but on Wednesday morning at St. Richard's Episcopal School several classrooms were filled with students and learning. The scene was a reminder of the wonderful things going on in education in Indianapolis, and of the hard work it’s going to take to address the monumental challenges facing the city’s most at-risk students.</cci:p>
