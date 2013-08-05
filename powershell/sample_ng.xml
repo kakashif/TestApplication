@@ -261,6 +261,162 @@
           </object>
         </parents>
       </object>
+       <object id="GVO3JK7UR.2" kind="Image">
+        <attributes>
+          <attribute group="Graph" kind="string" name="Id">GVO3JK7UR.2</attribute>
+          <attribute group="Graph" kind="string" name="RevOperator">kkhan</attribute>
+          <attribute group="Graph" kind="integer" name="Width">4389120</attribute>
+          <attribute group="Graph" kind="integer" name="Height">2926080</attribute>
+          <attribute group="Graph" kind="string" name="Uid">VO3JK7UR</attribute>
+          <attribute group="Graph" kind="integer" name="Priority">0</attribute>
+          <attribute group="Graph" kind="string" name="PlacementCode"></attribute>
+          <attribute group="Graph" kind="integer" name="OriginalWidth">4389120</attribute>
+          <attribute group="Graph" kind="integer" name="OriginalHeight">2926080</attribute>
+          <attribute group="Graph" kind="string" name="IIM_Keywords">Human Interest;topics;topix;bestof;toppics;toppix</attribute>
+          <attribute group="Graph" kind="string" name="IIM_Byline">Dan Kitwood</attribute>
+          <attribute group="Graph" kind="string" name="IIM_BylineTitle">Staff</attribute>
+          <attribute group="Graph" kind="string" name="IIM_HeadLine">The Unveiling Of Next Fourth Plinth Sculpture By Katharina Fritsch</attribute>
+          <attribute group="Graph" kind="string" name="IIM_Credit">Getty Images</attribute>
+          <attribute group="Graph" kind="string" name="IIM_Source">Getty Images Europe</attribute>
+          <attribute group="Graph" kind="string" name="IIM_Caption">LONDON, ENGLAND - JULY 25:  A blue French cockerel by German artist Katharina Fritsch is unveiled on top of the forth plinth in Trafalgar Square on July 25, 2013 in London, England. The five-metre high fibreglass giant blue French cockerel was installed as the ninth sculpture to occupy the vacant Fourth Plinth in Trafalgar Square.  (Photo by Dan Kitwood/Getty Images)</attribute>
+          <attribute group="Graph" kind="integer" name="OutputType">0</attribute>
+          <attribute group="Graph" kind="integer" name="PixelHeight">3456</attribute>
+          <attribute group="Graph" kind="integer" name="PixelWidth">5184</attribute>
+          <attribute group="Graph" kind="string" name="NGMimeType">image/jpeg</attribute>
+          <attribute group="Graph" kind="string" name="NGOriginalFileExt">.jpg</attribute>
+          <attribute group="Graph" kind="integer" name="ContextualUse">0</attribute>
+          <attribute group="Graph" kind="string" name="Name">blue_rooster.jpg</attribute>
+          <attribute group="Graph" kind="integer" name="ItemOrder">0</attribute>
+          <attribute group="Graph" kind="string" name="ImageRelation"></attribute>
+          <attribute group="Graph" kind="integer" name="MountedHeight">0</attribute>
+          <attribute group="Graph" kind="integer" name="MountedWidth">0</attribute>
+          <attribute group="Graph" kind="string" name="ExternalId"></attribute>
+          <attribute group="Graph" kind="string" name="Latitude">0</attribute>
+          <attribute group="Graph" kind="string" name="Longitude"></attribute>
+          <attribute group="Graph" kind="integer" name="ImageType">1</attribute>
+          <attribute group="Graph" kind="string" name="CreateOperator">kkhan</attribute>
+          <attribute group="Graph" kind="integer" name="ContentState">250</attribute>
+          <attribute group="ExtraInfo" kind="string" name="State">Edited</attribute>
+          <attribute group="ExtraInfo" kind="string" name="CaptionText"></attribute>
+          <attribute group="ExtraInfo" kind="string" name="CaptionByline"></attribute>
+          <attribute group="ExtraInfo" kind="string" name="CaptionCredit"></attribute>
+          <attribute group="ExtraInfo" kind="xml" name="CaptionTextAsXml">
+            <content>
+              <data format="text/xml">
+                <cci:ccitext xmlns:cci="urn:schemas-ccieurope.com" xmlns:ccit="http://www.ccieurope.com/xmlns/ccimltables" xmlns:ccix="http://www.ccieurope.com/xmlns/ccimlextensions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:schemas-ccieurope.com cci.xsd">
+                  <cci:p>LONDON, ENGLAND - JULY 25: A blue French cockerel by German artist Katharina Fritsch is unveiled on top of the forth plinth in Trafalgar Square on July 25, 2013 in London, England. The five-metre high fibreglass giant blue French cockerel was installed as the ninth sculpture to occupy the vacant Fourth Plinth in Trafalgar Square. (Photo by Dan Kitwood/Getty Images)</cci:p>
+                </cci:ccitext>
+              </data>
+            </content>
+          </attribute>
+          <attribute group="ExtraInfo" kind="string" name="CaptionBylineAsXml"></attribute>
+          <attribute group="ExtraInfo" kind="xml" name="CaptionCreditAsXml">
+            <content>
+              <data format="text/xml">
+                <cci:ccitext xmlns:cci="urn:schemas-ccieurope.com" xmlns:ccit="http://www.ccieurope.com/xmlns/ccimltables" xmlns:ccix="http://www.ccieurope.com/xmlns/ccimlextensions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:schemas-ccieurope.com cci.xsd">
+                  <cci:p>Getty Images</cci:p>
+                </cci:ccitext>
+              </data>
+            </content>
+          </attribute>
+        </attributes>
+        <content>
+          <link format="image/jpeg" kind="" reference="B935595140Z.1_20130725123502_000+GVO3JK7UR.2-0.jpg"/>
+        </content>
+        <parents>
+          <object id="B697206716Z.1" kind="Assignment">
+            <attributes>
+              <attribute group="NGItemCollection" kind="dateTime" name="DeliveryTime">1969-12-31T19:00:00-05:00</attribute>
+              <attribute group="NGItemCollection" kind="integer" name="TaskType">0</attribute>
+              <attribute group="NGItemCollection" kind="string" name="Name">75651987</attribute>
+              <attribute group="ExtraInfo" kind="string" name="State">Edited</attribute>
+            </attributes>
+          </object>
+        </parents>
+      </object>
+      
+       <object id="GUJ4NN4P3.1" kind="Image">
+        <attributes>
+          <attribute group="Graph" kind="string" name="Id">GUJ4NN4P3.1</attribute>
+          <attribute group="Graph" kind="string" name="RevOperator">dlindquist</attribute>
+          <attribute group="Graph" kind="integer" name="Width">870373</attribute>
+          <attribute group="Graph" kind="integer" name="Height">651933</attribute>
+          <attribute group="Graph" kind="string" name="Uid">UJ4NN4P3</attribute>
+          <attribute group="Graph" kind="integer" name="Priority">0</attribute>
+          <attribute group="Graph" kind="string" name="PlacementCode"></attribute>
+          <attribute group="Graph" kind="integer" name="OriginalWidth">870373</attribute>
+          <attribute group="Graph" kind="integer" name="OriginalHeight">651933</attribute>
+          <attribute group="Graph" kind="string" name="IIM_Keywords"></attribute>
+          <attribute group="Graph" kind="string" name="IIM_Byline"></attribute>
+          <attribute group="Graph" kind="string" name="IIM_BylineTitle"></attribute>
+          <attribute group="Graph" kind="string" name="IIM_HeadLine"></attribute>
+          <attribute group="Graph" kind="string" name="IIM_Credit"></attribute>
+          <attribute group="Graph" kind="string" name="IIM_Source"></attribute>
+          <attribute group="Graph" kind="string" name="IIM_Caption">September 7, 2006. IN_RENFEST07.!!! INtake. (Photo courtesy Madame Walker Theatre Center) Indiana Avenue Renfest. Photo is of composer, pianist and jazz legend Ramsey Lewis, who will perform at the event on Sept. 8.</attribute>
+          <attribute group="Graph" kind="integer" name="OutputType">0</attribute>
+          <attribute group="Graph" kind="integer" name="PixelHeight">770</attribute>
+          <attribute group="Graph" kind="integer" name="PixelWidth">1028</attribute>
+          <attribute group="Graph" kind="string" name="NGMimeType">image/pjpeg</attribute>
+          <attribute group="Graph" kind="string" name="NGOriginalFileExt">.jpg</attribute>
+          <attribute group="Graph" kind="integer" name="ContextualUse">0</attribute>
+          <attribute group="Graph" kind="string" name="Name">RAMSEYLEWISHORIZONTAL.jpg</attribute>
+          <attribute group="Graph" kind="integer" name="ItemOrder">0</attribute>
+          <attribute group="Graph" kind="string" name="ImageRelation"></attribute>
+          <attribute group="Graph" kind="integer" name="MountedHeight">0</attribute>
+          <attribute group="Graph" kind="integer" name="MountedWidth">0</attribute>
+          <attribute group="Graph" kind="string" name="ExternalId"></attribute>
+          <attribute group="Graph" kind="string" name="Latitude">0</attribute>
+          <attribute group="Graph" kind="string" name="Longitude"></attribute>
+          <attribute group="Graph" kind="integer" name="ImageType">1</attribute>
+          <attribute group="Graph" kind="string" name="CreateOperator">dlindquist</attribute>
+          <attribute group="Graph" kind="integer" name="ContentState">250</attribute>
+          <attribute group="ExtraInfo" kind="string" name="State">Created</attribute>
+          <attribute group="ExtraInfo" kind="string" name="CaptionText">
+            Ramsey Lewis will perform on Sept. 13 at Madame Walker Theatre Center as part of Indy Jazz Fest.
+          </attribute>
+          <attribute group="ExtraInfo" kind="string" name="CaptionByline">
+
+          </attribute>
+          <attribute group="ExtraInfo" kind="string" name="CaptionCredit">
+            File photo
+          </attribute>
+          <attribute group="ExtraInfo" kind="xml" name="CaptionTextAsXml">
+            <content>
+              <data format="text/xml">
+                <cci:ccitext xmlns:cci="urn:schemas-ccieurope.com" xmlns:ccit="http://www.ccieurope.com/xmlns/ccimltables" xmlns:ccix="http://www.ccieurope.com/xmlns/ccimlextensions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:schemas-ccieurope.com cci.xsd">
+                  <cci:p>Ramsey Lewis will perform on Sept. 13 at Madame Walker Theatre Center as part of Indy Jazz Fest.</cci:p>
+                </cci:ccitext>
+              </data>
+            </content>
+          </attribute>
+          <attribute group="ExtraInfo" kind="string" name="CaptionBylineAsXml">
+
+          </attribute>
+          <attribute group="ExtraInfo" kind="xml" name="CaptionCreditAsXml">
+            <content>
+              <data format="text/xml">
+                <cci:ccitext xmlns:cci="urn:schemas-ccieurope.com" xmlns:ccit="http://www.ccieurope.com/xmlns/ccimltables" xmlns:ccix="http://www.ccieurope.com/xmlns/ccimlextensions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:schemas-ccieurope.com cci.xsd">
+                  <cci:p>File photo</cci:p>
+                </cci:ccitext>
+              </data>
+            </content>
+          </attribute>
+        </attributes>
+        <content>
+          <link format="image/pjpeg" kind="" reference="B938090749Z.1_20130725122811_000+GUJ4NN4P3.1-0.jpg"/>
+        </content>
+        <parents>
+          <object id="B6910868889Z.1" kind="Assignment">
+            <attributes>
+              <attribute group="NGItemCollection" kind="dateTime" name="DeliveryTime">1969-12-31T19:00:00-05:00</attribute>
+              <attribute group="NGItemCollection" kind="integer" name="TaskType">0</attribute>
+              <attribute group="NGItemCollection" kind="string" name="Name">RAMSEYLEWISHORIZONTAL.jpg</attribute>
+              <attribute group="ExtraInfo" kind="string" name="State">Edited</attribute>
+            </attributes>
+          </object>
+        </parents>
+      </object>
+      
     </children>
   </object>
 </CCIObjects>

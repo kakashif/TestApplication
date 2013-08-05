@@ -30,6 +30,39 @@ Function ApplyXPathAndRegEx
     return $false
 }
 
+Function ApplyXPathAttribute
+{
+    Param([String]$xPath, [String]$attributeName, [ref]$output)
+
+    $result = [System.Xml.XPath.Extensions]::XPathSelectElement($xml, $xPath, $xmlns)
+    if ($result -ne $null)
+    {
+        if (($result.Attribute($attributeName) -ne $null) -and ($result.Attribute($attributeName).Value -ne ""))
+        {
+            $output.Value = $result.Attribute($attributeName).Value
+            return $true
+        }
+    }
+    return $false
+}
+
+Function ApplyXPathAttributeAndRegEx
+{
+    Param([String]$xPath, [String]$attributeName, $regExToApply, [ref]$output)
+
+    $results = ""
+    if (ApplyXPathAttribute $xPath $attributeName ([ref]$results))
+    {
+        ForEach ($re in $regExToApply)
+        {
+            $results = $results -replace $re[0], $re[1]
+        }
+        $output.Value = $results
+        return $true
+    }
+    return $false
+}
+
 Function AddAttribute
 {
     Param($attributeName, $xPath)
