@@ -123,10 +123,12 @@ Function CreateHeadline()
     if ($headline -ne "")
     {
         $asset.Headline = $headline
+        $hasHeadline = "true"
     }
     else
     {
         $asset.Headline = "NewsGate package " + $packageId
+        $hasHeadline = "false"
     }
 }
 
@@ -366,8 +368,12 @@ $xmlns.AddNamespace("xsi", "http://www.w3.org/2001/XMLSchema-instance")
 $packageId = ""
 $attributes = @{}
 $errors = New-Object System.Collections.Generic.List[String]
+#contributoor array with index 0 containing name and 1 containing source
 $contributors = New-Object System.Collections.Generic.List[string[]]
+$hasHeadline = ""
+$isValidProductType = ""
 $latestPublishedDate = ""
+$finalContentStatus = "draft"
 if (!(ApplyXPath "//object[@kind='Budget']/attributes/attribute[@name='PublicationDate']" ([ref]$latestPublishedDate)))
 {
     $latestPublishedDate = Get-Date

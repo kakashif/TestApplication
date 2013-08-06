@@ -106,7 +106,7 @@ $xmlns.AddNamespace("xsi", "http://www.w3.org/2001/XMLSchema-instance")
 $attributes = @{}
 $errors = New-Object System.Collections.Generic.List[String]
 $dateNow = Get-Date -Format s
-
+$isValidImage = "true"
 
 #initialize asset text object and set default properties
 SetStaticProperties $assetGroupId $siteId $propertyId "image" 1 "published"
