@@ -1,0 +1,6 @@
+c:\users\kkhan\documents\visual studio 2013\Projects\TestGit\TestGit\bin\Debug\TestGit.exe.config
+c:\users\kkhan\documents\visual studio 2013\Projects\TestGit\TestGit\bin\Debug\TestGit.exe
+c:\users\kkhan\documents\visual studio 2013\Projects\TestGit\TestGit\bin\Debug\TestGit.pdb
+c:\users\kkhan\documents\visual studio 2013\Projects\TestGit\TestGit\obj\Debug\TestGit.csprojResolveAssemblyReference.cache
+c:\users\kkhan\documents\visual studio 2013\Projects\TestGit\TestGit\obj\Debug\TestGit.exe
+c:\users\kkhan\documents\visual studio 2013\Projects\TestGit\TestGit\obj\Debug\TestGit.pdb
